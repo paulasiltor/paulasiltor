@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paula Torres 
-- 👀 I’m interested in segurança cibernética 
-- 🌱 I’m currently learning a programar da melhor forma para conseguir meu objetivo 
+- 👀 I’m interested in cyber security 
+- 🌱 I’m currently learning to program 
 - 💞️ I’m looking to collaborate 
 - 📫 paula23040@gmail.com 
 
