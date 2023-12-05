@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Paula Torres 
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning to program 
-- 💞️ I’m looking to collaborate 
+- 👋 Hi, I’m Paula Torres
 - 📫 paula23040@gmail.com 
 
 <!---
